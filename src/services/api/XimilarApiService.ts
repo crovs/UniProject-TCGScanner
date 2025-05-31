@@ -60,7 +60,7 @@ export class XimilarApiService {
    * API Configuration loaded from environment variables
    * This ensures secure token management and prevents hardcoding
    */
-  private static readonly API_TOKEN = Config.XIMILAR_API_TOKEN || 'ac71967c8ace9fc343caa110178b96fbcc6de213';
+  private static readonly API_TOKEN = Config.XIMILAR_API_TOKEN || 'INSERT YOUR API TOEKN HERE';
   private static readonly BASE_URL = Config.XIMILAR_BASE_URL || 'https://api.ximilar.com/card-grader/v2';
   private static readonly GRADE_ENDPOINT = '/grade';
 
