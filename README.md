@@ -19,7 +19,21 @@ Check out the app in action! The demo video showcases all key features including
 - Dark/light theme switching
 - Intuitive navigation and user interface
 
-> 📹 **Demo Video**: `demo-video.mp4` (included in the repository)
+### 📹 Watch the Demo Video
+
+**Option 1: Direct Video Embed (GitHub)**
+<video width="600" controls>
+  <source src="demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Option 2: Download and Watch**
+📥 [Download Demo Video](./demo-video.mp4) - Click to download and watch locally
+
+**Option 3: Raw Video Link**
+🎬 [View Raw Video File](https://github.com/YOURUSERNAME/TCGCardScanner/raw/main/demo-video.mp4)
+
+> **Note**: If the embedded video doesn't play, try the download link or raw video link above.
 
 The demo demonstrates the complete user workflow from scanning a card to viewing detailed analysis results and managing your collection.
 
