@@ -73,3 +73,112 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Metro bundler cache
+.metro-health-check*
+
+# Flipper
+/android/app/src/debug/java/com/
+
+# Watchman
+.watchmanconfig
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*.swo
+*~
+
+# OS generated files
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# TCG Card Scanner specific files
+# API keys and sensitive configuration
+config/secrets.json
+config/api-keys.json
+
+# Uploaded images and cached data
+uploads/
+cache/
+temp-images/
+scanned-cards/
+
+# Test artifacts
+screenshots/
+test-results/
+__tests__/coverage/
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+
+# React Native packager cache
+react-native-packager-cache-*
+
+# Android build artifacts
+android/app/build/
+android/.gradle/
+android/build/
+
+# iOS build artifacts
+ios/build/
+ios/DerivedData/
+
+# Hermes bytecode
+*.hbc
+
+# Debug files
+*.dSYM/
