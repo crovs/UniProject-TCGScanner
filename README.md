@@ -21,19 +21,21 @@ Check out the app in action! The demo video showcases all key features including
 
 ### 📹 Watch the Demo Video
 
-**Option 1: Direct Video Embed (GitHub)**
-<video width="600" controls>
-  <source src="demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**Direct Video Playback (GitHub Native)**
 
-**Option 2: Download and Watch**
-📥 [Download Demo Video](./demo-video.mp4) - Click to download and watch locally
+<!-- Replace this URL with your GitHub-hosted video URL -->
+https://github.com/user-attachments/assets/90be8923-93f4-4232-8f5d-2e212a3db6bf
 
-**Option 3: Raw Video Link**
-🎬 [View Raw Video File](https://github.com/YOURUSERNAME/TCGCardScanner/raw/main/demo-video.mp4)
+> **🎯 To get your video URL:**
+> 1. Go to your GitHub repo → Create new Issue
+> 2. Drag & drop `demo-video.mp4` into the comment box  
+> 3. Copy the generated URL (starts with `https://github.com/user-attachments/assets/`)
+> 4. Replace the URL above with your copied URL
+> 5. Delete the draft issue (no need to submit)
 
-> **Note**: If the embedded video doesn't play, try the download link or raw video link above.
+**Alternative Options:**
+- 📥 [Download Demo Video](./demo-video.mp4) - Local download
+- 🎬 [Raw Video File](https://github.com/YOURUSERNAME/TCGCardScanner/raw/main/demo-video.mp4) - Direct link
 
 The demo demonstrates the complete user workflow from scanning a card to viewing detailed analysis results and managing your collection.
 
